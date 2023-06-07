@@ -1,0 +1,776 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-4-rkE {
+  box-sizing: border-box;
+  padding: 1.8rem 0rem 4.1rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #dadada;
+}
+.desktop-4-rkE .auto-group-dfgj-kKp {
+  margin: 0rem 2.9rem 1.6rem 2.8rem;
+  width: calc(100% - 5.7rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-dfgj-kKp .market-box-G3G {
+  margin: 0.1rem 33.5rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-dfgj-kKp .auto-group-oraj-Cb8 {
+  margin-right: 3.2rem;
+  box-sizing: border-box;
+  padding: 0.1rem 1.8rem 0.1rem 3.7rem;
+  height: 3.8rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(255, 255, 255, 0.2099999934);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-dfgj-kKp .auto-group-oraj-Cb8 .search-or-product-brand-and-categories-JPG {
+  margin-right: 26.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-dfgj-kKp .auto-group-oraj-Cb8 .rectangle-9-1Hg {
+  margin-bottom: 0.3rem;
+  width: 4rem;
+  height: 3.3rem;
+  position: relative;
+  background-size: 75% 87.774%;
+  background-position: 0.5rem 0.2517rem;
+  background-image: url('../assets/rectangle-9-doU.png');
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-dfgj-kKp .market-box-help-center-marketboxgmailcom-q1p {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-dfgj-kKp .market-box-help-center-marketboxgmailcom-q1p .market-box-help-center-marketboxgmailcom-q1p-sub-0 {
+}
+.desktop-4-rkE .auto-group-dfgj-kKp .market-box-help-center-marketboxgmailcom-q1p .market-box-help-center-marketboxgmailcom-q1p-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #256e25;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr {
+  margin-bottom: 0.6rem;
+  width: 157.8rem;
+  height: 45.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .bar-an2 {
+  width: 144.0996rem;
+  height: 3.9647rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #256e25;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .rectangle-39-Kjc {
+  width: 3.2rem;
+  height: 2.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.7rem;
+  top: 0.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .layout-qxr {
+  width: 144rem;
+  height: 25.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.7rem;
+  background-color: #bcced4;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .all-natural-products-ndC {
+  width: 17.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .fresh-and-healthy-veggies-organic-market-6Nz {
+  width: 28.3rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 8.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .fresh-and-healthy-veggies-organic-market-6Nz .fresh-and-healthy-veggies-organic-market-6Nz-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .fresh-and-healthy-veggies-organic-market-6Nz .fresh-and-healthy-veggies-organic-market-6Nz-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .background-shop-now-1-wnv {
+  width: 13.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 22.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #256f25;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .shop-now-Foc {
+  width: 9rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 23.5rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .detox-with-green-vegetables-ZpJ {
+  width: 23.6rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 32.5rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .detox-with-green-vegetables-ZpJ .detox-with-green-vegetables-ZpJ-sub-0 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .detox-with-green-vegetables-ZpJ .detox-with-green-vegetables-ZpJ-sub-1 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .rectangle-10-J9c {
+  width: 76.9rem;
+  height: 26.5rem;
+  position: absolute;
+  left: 80.8rem;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .background-dpof-QiS {
+  width: 130rem;
+  height: 12rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 30.9rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #abd8bd;
+  border-radius: 1rem;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .rectangle-3-WmU {
+  width: 16.9rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 125rem;
+  top: 28.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .shop-now-1-3Fc {
+  width: 8.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 40.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .detox-with-green-vegetables-Yy4 {
+  width: 23.6rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 32.3rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .detox-with-green-vegetables-Yy4 .detox-with-green-vegetables-Yy4-sub-0 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .detox-with-green-vegetables-Yy4 .detox-with-green-vegetables-Yy4-sub-1 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-4-rkE .auto-group-rjy6-gAr .rectangle-43-fwC {
+  width: 2.8rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 136.5rem;
+  top: 0.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-4-rkE .shop-now-2-BuY {
+  margin: 0rem 0rem 2.2rem 7.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r {
+  margin-left: 7.9rem;
+  height: 40.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-gtar-pSi {
+  margin: 0.4rem 3.1rem 0rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-gtar-pSi .rectangle-23-9jt {
+  margin-bottom: 7.1rem;
+  width: 16rem;
+  height: 16.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-gtar-pSi .rectangle-33-U1U {
+  width: 16rem;
+  height: 16.6rem;
+  position: relative;
+  background-size: 103.75% 100%;
+  background-position: -0.3rem 0;
+  background-image: url('../assets/rectangle-33-VXC.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r {
+  margin: 1.6rem 7.1rem 0rem 0rem;
+  width: 13.1rem;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .auto-group-zjz6-sZQ {
+  box-sizing: border-box;
+  padding-bottom: 1.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .auto-group-zjz6-sZQ .shop-now-3-1Qi {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .auto-group-zjz6-sZQ .shop-now-4-YQe {
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .auto-group-zjz6-sZQ .shop-now-5-4tn {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .line-1-bti {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .shop-now-36-jzv {
+  margin: 0rem 0rem 1.1rem 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .auto-group-jwby-4XQ {
+  margin-bottom: 8.4rem;
+  width: 100%;
+  height: 2.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #256f25;
+  border-radius: 1rem;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .shop-now-20-wLJ {
+  margin-bottom: 1.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .shop-now-18-GdU {
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .shop-now-21-Qjg {
+  margin-bottom: 1.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .line-4-xFQ {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .shop-now-33-6sQ {
+  margin: 0rem 0rem 1.1rem 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .auto-group-arqw-2m4 {
+  width: 100%;
+  height: 2.5rem;
+  position: relative;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .auto-group-arqw-2m4 .shop-now-22-Bdx {
+  width: 2.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 5.3rem;
+  top: 0.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-p7zq-N6r .auto-group-arqw-2m4 .rectangle-34-u4A {
+  width: 13.1rem;
+  height: 2.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #256f25;
+  border-radius: 1rem;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-yajp-qCi {
+  margin: 0rem 3.1rem 1.2rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-yajp-qCi .rectangle-29-aAJ {
+  margin-bottom: 5.9rem;
+  width: 16rem;
+  height: 16.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-yajp-qCi .rectangle-35-hVp {
+  width: 16rem;
+  height: 16.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a {
+  margin: 1.1rem 7.1rem 1.6rem 0rem;
+  width: 13.1rem;
+  height: calc(100% - 2.7rem);
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .auto-group-qqkn-8r2 {
+  box-sizing: border-box;
+  padding-bottom: 1.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .auto-group-qqkn-8r2 .shop-now-10-GxE {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .auto-group-qqkn-8r2 .shop-now-8-2Ai {
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .auto-group-qqkn-8r2 .shop-now-11-ZAe {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .line-2-6RU {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .shop-now-34-EGn {
+  margin: 0rem 0rem 1.1rem 0.1rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .auto-group-bp1t-YoG {
+  margin-bottom: 7.4rem;
+  width: 100%;
+  height: 2.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #256f25;
+  border-radius: 1rem;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .shop-now-25-Evz {
+  margin-bottom: 1.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .shop-now-23-Ape {
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .shop-now-26-WNi {
+  margin-bottom: 1.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .line-5-qQz {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-isd8-d8a .auto-group-ukjl-atN {
+  width: 100%;
+  height: 2.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #256f25;
+  border-radius: 1rem;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-brcn-662 {
+  margin: 0rem 3.1rem 1.4rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-brcn-662 .rectangle-31-pni {
+  margin-bottom: 6.1rem;
+  width: 16rem;
+  height: 16.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-brcn-662 .rectangle-37-Yyc {
+  width: 16rem;
+  height: 16.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ {
+  margin: 0.6rem 4.9rem 1.6rem 0rem;
+  width: 13.1rem;
+  height: calc(100% - 2.2rem);
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .auto-group-gges-Bmg {
+  box-sizing: border-box;
+  padding-bottom: 1.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .auto-group-gges-Bmg .shop-now-15-vzA {
+  margin-bottom: 1.8rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .auto-group-gges-Bmg .shop-now-13-4aa {
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .auto-group-gges-Bmg .shop-now-16-bKc {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .line-3-jRp {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .shop-now-35-HiE {
+  margin: 0rem 0rem 1.1rem 0.2rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .auto-group-n1e6-CaJ {
+  margin-bottom: 7.6rem;
+  width: 100%;
+  height: 2.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #256f25;
+  border-radius: 1rem;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .shop-now-30-H5x {
+  margin-bottom: 1.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .shop-now-28-1ne {
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .shop-now-31-ZJN {
+  margin-bottom: 1.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .line-6-Vxi {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .auto-group-xz1q-HRQ .auto-group-bag6-4F8 {
+  width: 100%;
+  height: 2.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #256f25;
+  border-radius: 1rem;
+}
+.desktop-4-rkE .auto-group-uxpa-u4r .rectangle-11-AJA {
+  margin-bottom: 1.4rem;
+  width: 18.3rem;
+  height: 39.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

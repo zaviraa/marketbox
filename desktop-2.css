@@ -1,0 +1,545 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-jKU {
+  box-sizing: border-box;
+  padding-top: 1.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #dadada;
+}
+.desktop-2-jKU .auto-group-9skl-eBY {
+  margin: 0rem 2.9rem 1.6rem 2.8rem;
+  width: calc(100% - 5.7rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-9skl-eBY .market-box-Yni {
+  margin: 0.1rem 33.5rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-9skl-eBY .auto-group-sx8z-St6 {
+  margin-right: 3.2rem;
+  box-sizing: border-box;
+  padding: 0.1rem 1.8rem 0.1rem 3.7rem;
+  height: 3.8rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: rgba(255, 255, 255, 0.2099999934);
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-9skl-eBY .auto-group-sx8z-St6 .search-or-product-brand-and-categories-ZC2 {
+  margin-right: 26.2rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-9skl-eBY .auto-group-sx8z-St6 .rectangle-9-TYJ {
+  margin-bottom: 0.3rem;
+  width: 4rem;
+  height: 3.3rem;
+  position: relative;
+  background-size: 75% 87.774%;
+  background-position: 0.5rem 0.2517rem;
+  background-image: url('../assets/rectangle-9-3xr.png');
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-9skl-eBY .market-box-help-center-marketboxgmailcom-65U {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-9skl-eBY .market-box-help-center-marketboxgmailcom-65U .market-box-help-center-marketboxgmailcom-65U-sub-0 {
+}
+.desktop-2-jKU .auto-group-9skl-eBY .market-box-help-center-marketboxgmailcom-65U .market-box-help-center-marketboxgmailcom-65U-sub-1 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #256e25;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U {
+  width: 157.8rem;
+  height: 30.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .bar-V18 {
+  width: 144.0996rem;
+  height: 3.9647rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #256e25;
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .layout-214 {
+  width: 144rem;
+  height: 25.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.8rem;
+  background-color: #bcced4;
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .rectangle-10-xQW {
+  width: 76.9rem;
+  height: 26.5rem;
+  position: absolute;
+  left: 80.8rem;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .all-natural-products-tJA {
+  width: 17.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .fresh-and-healthy-veggies-organic-market-nPY {
+  width: 28.3rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 8.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .fresh-and-healthy-veggies-organic-market-nPY .fresh-and-healthy-veggies-organic-market-nPY-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .fresh-and-healthy-veggies-organic-market-nPY .fresh-and-healthy-veggies-organic-market-nPY-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .background-shop-now-1-FRY {
+  width: 13.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 22.5rem;
+  background-color: #256f25;
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .shop-now-aii {
+  width: 9rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 23.5rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-jKU .auto-group-7b8r-Z7U .rectangle-43-J8v {
+  width: 2.8rem;
+  height: 2.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 135.4rem;
+  top: 0.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA {
+  box-sizing: border-box;
+  padding: 0.6rem 5.798rem 5.4rem 5.902rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-rqmc-LbQ {
+  margin: 0rem 0rem 1.7rem 0.7rem;
+  width: 42.0983rem;
+  height: 17rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-rqmc-LbQ .background-dpof-f7t {
+  width: 37.8rem;
+  height: 14.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #dbbadc;
+  border-radius: 1rem;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-rqmc-LbQ .beef-and-chicken-fresh-ZUA {
+  width: 20.7rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 1.8999rem;
+  top: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-rqmc-LbQ .shop-now-1-sDx {
+  width: 8.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.1rem;
+  top: 11.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-rqmc-LbQ .rectangle-2-ZsU {
+  width: 13.6rem;
+  height: 14.5rem;
+  position: absolute;
+  left: 28.4983rem;
+  top: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-rqmc-LbQ .rectangle-3-66i {
+  width: 7.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 30.6983rem;
+  top: 9.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk {
+  width: 100%;
+  height: 18.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .rectangle-12-jvN {
+  width: 119.4rem;
+  height: 16.3rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 1.2rem;
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 1rem;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .rectangle-13-fZ8 {
+  width: 15.8rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 0.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .rectangle-14-z5c {
+  width: 18.5rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 42.8rem;
+  top: 0.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .rectangle-17-7vv {
+  width: 17.2rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 66.3998rem;
+  top: 0.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .rectangle-19-fBk {
+  width: 17.1rem;
+  height: 12.9rem;
+  position: relative;
+  left: 109.6998rem;
+  top: 1.2rem;
+  background-size: 91.176% 173.507%;
+  background-position: 0.1925rem -9.1636rem;
+  background-image: url('../assets/rectangle-19-6sx.png');
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .rectangle-20-A22 {
+  width: 14rem;
+  height: 11rem;
+  position: absolute;
+  left: 88.1998rem;
+  top: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .rectangle-28-gWA {
+  width: 14rem;
+  height: 11rem;
+  position: absolute;
+  left: 88.1997rem;
+  top: 1.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .rectangle-11-Dkz {
+  width: 14rem;
+  height: 18.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .vegetable-up-to-50-off-xia {
+  width: 9.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 22.7rem;
+  top: 13.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .fruits-up-to-50-off-qGa {
+  width: 9.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 47.1998rem;
+  top: 13.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .beef-up-to-50-off-8mU {
+  width: 9.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 69.6998rem;
+  top: 13.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .chicken-up-to-50-off-3dY {
+  width: 9.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 91.1998rem;
+  top: 13.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-9hd8-pNA .auto-group-84ge-cqk .chips-up-to-50-off-Mu8 {
+  width: 9.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 112.9998rem;
+  top: 13.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-v4aa-f98 {
+  width: 144.1081rem;
+  height: 21.0647rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .bar-bHg {
+  width: 144.1012rem;
+  height: 5.9734rem;
+  position: absolute;
+  left: 0;
+  top: 15.0913rem;
+  background-color: #256e25;
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .bar-LFG {
+  width: 144.1081rem;
+  height: 15.2957rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #79c379;
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .rectangle-24-gK8 {
+  width: 11.8rem;
+  height: 10rem;
+  position: absolute;
+  left: 5.9017rem;
+  top: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .rectangle-25-QW2 {
+  width: 12.1rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 40.3017rem;
+  top: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .rectangle-26-LPg {
+  width: 11.8rem;
+  height: 10rem;
+  position: absolute;
+  left: 77.4015rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .rectangle-27-UEz {
+  width: 11.6rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 109.0015rem;
+  top: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .shipping-across-west-east-indonesia-zz2 {
+  width: 15rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 6.5rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .curated-products-from-handpicked-sellers-6XG {
+  width: 16.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 53.5rem;
+  top: 6.5rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .save-money-at-lowest-price-z6r {
+  width: 10.6rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 89.1rem;
+  top: 6.5rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .natural-consume-local-closer-to-nature-tCE {
+  width: 17.7rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 121.8rem;
+  top: 6.8rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .limited-time-only-disc-up-to-40-shop-now-NNJ {
+  width: 48.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 45.9rem;
+  top: 17rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2102272034;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .limited-time-only-disc-up-to-40-shop-now-NNJ .limited-time-only-disc-up-to-40-shop-now-NNJ-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-2-jKU .auto-group-v4aa-f98 .limited-time-only-disc-up-to-40-shop-now-NNJ .limited-time-only-disc-up-to-40-shop-now-NNJ-sub-1 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
